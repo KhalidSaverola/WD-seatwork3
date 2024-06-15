@@ -1,39 +1,172 @@
 @import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
 
 *{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    background-color: grey;
     font-family: 'Tiny5', sans-serif;
 }
-header{
-    background-color:red;
-    color: white    ;
-    width: 100%;
+body{
+    min-height: 100vh;
+    background-image: url(/assets/img/spidermanbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body h1{
+    text-align: center;
+}
+.landing-page{
+    text-align: center;
+}
+h1, h2, h3{
+    color: white;
+}
+.landing-page a{
+    color: white;
+}
+.landing-page a:hover{
+    color: blue;
+    transition: 0.5s ease;
+}
+.container{
+    height: 100px;
+    align-content: center;
+    background-color: black;
+    border-color: blue;
     border-style: solid;
+    padding: 0 5dvw;
+    justify-content: space-between;
+
 }
-header h2{
-    font-size: 30px;
+.static-header-1{
+    position: absolute;
+     right: 50px;
+     margin: auto;
+   }
+img{
+    object-fit: cover;
+    height: 60px;
 }
-header {
+.nav-links{
     display: flex;
-    align-items: center;
-    justify-content: space-around;
-
+    justify-content: center;
+    gap: 1rem;
 }
-.nav{
-    color: red;
-}
-
-nav ul li{
-    list-style: none;
-    display: inline-block;
-}
-nav ul li a{
+div ul a{
+    height: fit-content;
+    text-align: center;
     text-decoration: none;
     color: white;
-    font-size: 18px;
-    padding: 0 15px;
-    text-transform: capitalize;
+    padding: .7rem 1rem;
+    border: 1px blue solid;
+    border-radius: 5px;
+}
+div ul a:hover{
+    background-color: blue;
+    transition: 0.5s ease;
+}
+.static-header-2{
+    position: absolute;
+     right: 50px;
+     margin: auto;
+   }
+img{
+    object-fit: cover;
+    height: 60px;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+div ul a{
+    height: fit-content;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: .7rem 1rem;
+    border: 1px blue solid;
+    border-radius: 5px;
+}
+div ul a:hover{
+    background-color: blue;
+    transition: 0.5s ease;
+}
+.static-header-3{
+    position: absolute;
+     right: 50px;
+     margin: auto;
+   }
+img{
+    object-fit: cover;
+    height: 60px;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+div ul a{
+    height: fit-content;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: .7rem 1rem;
+    border: 1px blue solid;
+    border-radius: 5px;
+}
+div ul a:hover{
+    background-color: blue;
+    transition: 0.5s ease;
+}
+.static-header-4{
+    position: absolute;
+     right: 50px;
+     margin: auto;
+   }
+img{
+    object-fit: cover;
+    height: 60px;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+div ul a{
+    height: fit-content;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: .7rem 1rem;
+    border: 1px blue solid;
+    border-radius: 5px;
+}
+div ul a:hover{
+    background-color: blue;
+    transition: 0.5s ease;
+}
+.static-header-5{
+    position: absolute;
+     right: 50px;
+     margin: auto;
+   }
+img{
+    object-fit: cover;
+    height: 60px;
+}
+.nav-links{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+div ul a{
+    height: fit-content;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding: .7rem 1rem;
+    border: 1px blue solid;
+    border-radius: 5px;
+}
+div ul a:hover{
+    background-color: blue;
+    transition: 0.5s ease;
 }
