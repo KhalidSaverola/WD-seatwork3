@@ -379,8 +379,8 @@ hr{
     margin-top: 40px;
     font-size: 50px;
 }
-.fa-solid{
-    margin-top: 40px;
+.form-design-3 .fa-solid, .fas {
+    margin: 40px;
     font-size: 50px;
 }
 .spider-icon-animation .fa-solid:hover{
@@ -670,6 +670,6 @@ hr{
         background-position-x: 1000px ;
     }
 }
-.fa-solid, .fas{
+.footer-animation-design-5 .fa-solid, .fas{
     font-size: 20px;
 }
