@@ -72,7 +72,7 @@ Overall, the project exemplifies competence in HTML and CSS by creating a multi-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-
+```
 WD-seatwork3
 └─ assets
 |   └─ css
@@ -102,6 +102,7 @@ WD-seatwork3
 |     └─ index.html
 └─ index.html
 └─ readme.md
+```
 
 ## Resources
 
