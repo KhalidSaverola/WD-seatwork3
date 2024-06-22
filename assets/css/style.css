@@ -6,11 +6,11 @@
     box-sizing: border-box;
     font-family: 'Tiny5', sans-serif;
 }
-section{
+body {
     min-height: 100vh;
-    background-image: url(/assets/img/spidermanbg.jpg);
-    background-repeat: no-repeat;
+    background: url('../img/spidermanbg.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
 }
 .container{
     width: 85%;
